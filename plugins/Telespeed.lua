@@ -1,28 +1,13 @@
 do
 
 function run(msg, matches)
-  return 'TeleSpeed Telegram Bot v2'.. [[ 
-  
-TeleSpeed version 2
+  return 'Viva Telegram Bot v1'.. [[ 
+Sudo 😇
+@ArianWatch
 
+Open Git 😡
+Github.com/ArianWatch/Viva
 
-                           Powere
-                           @mohamadtictic Mohamad
-
-                                                  sudo
-                                                  @mohamadtictic Mohamad 
-                                                  @Dehladeh4 Amir Hossein
-                                                  @ThisIsamirh Amir Hossein
-
-                                                                          Special Thanks to 
-                                                                          @Dehladeh4 amir Hossein 
-                                                                          @ThisIsamirh Amir Hossein
-                                                                                create Gego 
-                                                                                 @Mod999 Mohamad
-                                                                                                      admin 
-                                                                                                      @Dr_VIRUS Efran
-                                                                                                               chanel
-																							                   @telesped
 																											   ]]
 
 end
@@ -32,9 +17,9 @@ return {
   usage = "/ver : robot info",
   patterns = {
     "^[!/]ver$",
-	"^[Tt]elespeed",
-	"^[!/]telespeed",
-	"^[!/]Telespeed",
+	"^[Vv]iva",
+	"^[!/]viva",
+	"^[!/]Viva",
 	"^[!/]version"
   }, 
   run = run 
