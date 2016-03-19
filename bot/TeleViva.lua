@@ -226,26 +226,21 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {137984481},--Sudo users
+    sudo_users = {123627901 ,137984481tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSpeed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/TeleSpeedTG
+https://github.com/ArianWatch
 
 Admins
-@SudoTeleSpeed [Developer]
-@mohamadtictic [Manager]
+@ArianWatch [Developer]
+@Hossein_yzzzz [Developer]
 
-Special thanks to
-awkward_potato:@M_O_H_A_M_M_A_D_D
-Siyanew
-topkecleon
-Vamptacus
 
 Our channels
-@TeleSpeedTG [persian]
+@VivaTeam [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
